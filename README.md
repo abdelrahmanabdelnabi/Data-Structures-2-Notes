@@ -9,16 +9,18 @@
 
 ### Course Content
  - Complexity Analysis
+ - Sorting
  - Priority Queues
 	 - implementation with heaps
  - Balanced Trees
 	 - AVL Trees
- - Sorting
-	 - quicksort
-	 - mergesort
+ - Hashing
  - File Structure
-	  - B Trees
- - Minimum Spanning Trees
+	  - B-Trees
+ - Graphs
+ 	- Traversal
+ 	- Minimum Spanning Trees
+	- Shortest Path
  
 ### Grading Policy
 ### References
