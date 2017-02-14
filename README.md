@@ -7,7 +7,7 @@
 	 - Eng. Sami Mamdouh
 	 - Eng. Mohamed Ibrahim
 
-### Course Content (incomplete)
+### Course Content
  - Complexity Analysis
  - Priority Queues
 	 - implementation with heaps
@@ -21,9 +21,12 @@
  - Minimum Spanning Trees
  
 ### Grading Policy
-### Reference
+### References
 CLRS, Introduction to Algorithms, 3rd Edition
 
 ## Table of Content
-[TOC] 
-
+- [Course Logistics](#course-logistics)
+	- [Course Content](#course-content)
+	- [Grading Policy](#grading-policy)
+	- [References](#references)
+- [Table of Content](#table-of-content)
