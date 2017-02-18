@@ -39,6 +39,9 @@ supplmentary reference: [Mathematics for Computer Science][mathcs]
 - [Week 1](#week 1)
 	- [Complexity Analysis](#complexity-analysis)
 - [Week 2](#week 2)
+	- [Priority Queues](#priority-queues)
+	- [Priority Queues implementation with Heaps](#priority-queues-implementation-with-heaps)
+	- [Solving Recurrence Relations](#solving-recurrence-relations)
 
 ## Week 1
 ### Complexity Analysis
