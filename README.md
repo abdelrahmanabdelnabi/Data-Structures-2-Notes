@@ -63,4 +63,7 @@ removes and returns the element of _S_ with the largest key.
 increases the value of element _x_’s key to the new value _k_, which is assumed to be at least as large as _x_’s current key value.
 
 ### Priority Queues implementation with Heaps
+- [C/C++](C_Cpp/PriorityQueues_BinaryMinHeap.cpp) 
+- [Java](link)
+
 ### Solving Recurrence Relations
