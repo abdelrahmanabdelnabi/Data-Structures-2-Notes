@@ -67,3 +67,11 @@ increases the value of element _x_’s key to the new value _k_, which is assume
 - [Java](link)
 
 ### Solving Recurrence Relations
+
+## Week 3
+### Sorting Techniques
+
+Sortings Algorithms:
+- Selection Sort  O(_N^2_)
+- Bubble Sort 	O(_N^2_)
+- [Merge Sort](C_Cpp/MergeSort_Recursive.cpp) 	O(_N_Lg(N)_)
