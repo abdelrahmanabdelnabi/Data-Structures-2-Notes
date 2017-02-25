@@ -42,6 +42,9 @@ supplmentary reference: [Mathematics for Computer Science][mathcs]
 	- [Priority Queues](#priority-queues)
 	- [Priority Queues implementation with Heaps](#priority-queues-implementation-with-heaps)
 	- [Solving Recurrence Relations](#solving-recurrence-relations)
+- [Week 3](#week 3)
+	- [Sorting Algorithms](#sorting-algorithms)
+
 
 ## Week 1
 ### Complexity Analysis
@@ -64,14 +67,13 @@ increases the value of element _x_’s key to the new value _k_, which is assume
 
 ### Priority Queues implementation with Heaps
 - [C/C++](C_Cpp/PriorityQueues_BinaryMinHeap.cpp) 
-- [Java](link)
+- Java
 
 ### Solving Recurrence Relations
 
 ## Week 3
-### Sorting Techniques
+### Sorting Algorithms
 
-Sortings Algorithms:
 - Selection Sort  O(_N^2_)
 - Bubble Sort 	O(_N^2_)
 - [Merge Sort](C_Cpp/MergeSort_Recursive.cpp) 	O(_N_Lg(N)_)
