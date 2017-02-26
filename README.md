@@ -74,6 +74,6 @@ increases the value of element _x_’s key to the new value _k_, which is assume
 ## Week 3
 ### Sorting Algorithms
 
-- Selection Sort  O(_N^2_)
-- Bubble Sort 	O(_N^2_)
-- [Merge Sort](C_Cpp/MergeSort_Recursive.cpp) 	O(_N_Lg(N)_)
+- [Selection Sort](C_Cpp/SelectionSort.cpp)  O(__N^2__)
+- [Bubble Sort](C_Cpp/BubbleSort.cpp) 	O(__N^2__)
+- [Merge Sort](C_Cpp/MergeSort.cpp) 	O(__N__Lg(N)__)
