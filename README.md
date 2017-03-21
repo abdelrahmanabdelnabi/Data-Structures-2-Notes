@@ -1,7 +1,8 @@
+<h1 align="center">Welcome to Data Structures II</h1>
 
-#Welcome to Data Structures II
 
-##Course Logistics
+
+## Course Logistics
  - lecturer: Prof. Dr. Amr El-Masry
  - T.A:
 	 - Eng. Sami Mamdouh
